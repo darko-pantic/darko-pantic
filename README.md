@@ -1,8 +1,8 @@
 ## 💫 About Me:
 
 <div align="center">
-<h1 align="center">Hi, I'm Darko <img width="35" src="https://github.com/darko-pantic/darko-pantic/blob/main/assets/img/waving.gif"></h1>
-<h4 align="center">I'm currently working as a software engineer focused on C#/.Net</h4>
+<h1 align="center">Hi, I'm Darko! <img width="35" src="https://github.com/darko-pantic/darko-pantic/blob/main/assets/img/waving.gif"></h1>
+<h4 align="center">I'm currently working as a Software Engineer focused on .NET Framework</h4>
 </div>
 
 <div align="center">
