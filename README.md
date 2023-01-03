@@ -1,6 +1,15 @@
-# 💫 About Me:
-🔭 I’m currently working as a software engineer (C#/.Net)<br>
+## 💫 About Me:
 
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Darko</h1>
+<h4 align="center">I'm currently working as a software engineer focused on C#/.Net</h4>
+</div>
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darko-pantic) 
@@ -15,4 +24,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=darko-pantic&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+-----
+[![GitHub darko-pantic](https://img.shields.io/github/followers/darko-pantic?label=follow&style=social&logoColor=black)](https://github.com/darko-pantic)
+Credits: [Darko Pantic](https://github.com/darko-pantic)
