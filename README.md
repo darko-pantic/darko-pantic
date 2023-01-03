@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/darko-pantic/darko-pantic/blob/main/assets/img/header.svg"
        alt="snake" /></a>
 </div>
 
@@ -20,10 +20,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=darko-pantic&theme=nord&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=darko-pantic&theme=nord&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darko-pantic&theme=nord&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=darko-pantic&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
 ---
+[![GitHub darko-pantic](https://img.shields.io/github/followers/darko-pantic?label=follow&style=social&logoColor=black)](https://github.com/darko-pantic)
 [![](https://visitcount.itsvg.in/api?id=darko-pantic&icon=0&color=0)](https://visitcount.itsvg.in)
 
------
-[![GitHub darko-pantic](https://img.shields.io/github/followers/darko-pantic?label=follow&style=social&logoColor=black)](https://github.com/darko-pantic)
-Credits: [Darko Pantic](https://github.com/darko-pantic)
+---
+Credits: [darko-pantic](https://github.com/darko-pantic)
