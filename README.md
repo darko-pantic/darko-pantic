@@ -1,26 +1,23 @@
-##### <div align="right"> ![](https://visitcount.itsvg.in/api?id=darko-pantic&icon=0&color=0) </div>
-##### <div align="right"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/darko-pantic?style=social"> </div>
-
-# 🤖 About Me: 
-
-<div align="center">
-<h1 align="center">Hi, I'm Darko! <img width="35" src="https://github.com/darko-pantic/darko-pantic/blob/main/assets/img/waving.gif"></h1>
-<p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?lines=I'm+working+as+a+Software+Engineer;ASP.Net%20|%20ASP.Net+Core%20|%20DDD+Enthusiast;Always%20learning%20new%20things&center=true&width=450&height=45">
-</p>
-</div>
-
 <div align="center">
   <a href="https://github.com/darko-pantic/darko-pantic">
   <img  src="https://github.com/darko-pantic/darko-pantic/blob/main/assets/img/header.svg"
        alt="snake" /></a>
 </div>
 
+##### <div align="right"> ![](https://visitcount.itsvg.in/api?id=darko-pantic&icon=0&color=0) </div>
+##### <div align="right"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/darko-pantic?style=social"> </div>
+
+
+
+# 🤖 About Me: 
+<h1 align="center">Hi, I'm Darko! <img width="35" src="https://github.com/darko-pantic/darko-pantic/blob/main/assets/img/waving.gif"></h1>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+working+as+a+Software+Engineer;ASP.Net%20|%20ASP.Net+Core%20|%20DDD+Enthusiast;Always%20learning%20new%20things&center=true&width=450&height=45">
+</p>
+
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darko-pantic) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?&logo=github&logoColor=white)](https://github.com/darko-pantic) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20928466/pantic-darko)
 
 # 💻 Tech Stack:
-
 #### 🔸 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
