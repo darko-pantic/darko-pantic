@@ -33,7 +33,7 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=darko-pantic&theme=nord&show_icons=true&hide_border=true">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=darko-pantic&theme=nord&hide_border=true&include_all_commits=false&count_private=true">
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=darko-pantic&theme=nord&hide_border=true">
 </p>
 <br/>
