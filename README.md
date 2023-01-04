@@ -4,7 +4,7 @@
   </a>
 </div>
 
-##### <div align="right"> <img src="https://komarev.com/ghpvc/?username=darko-pantic&label=Profile%20views&color=0e75b6&style=flat"/>  <img src="https://img.shields.io/github/followers/darko-pantic?label=Followers" alt="bouaskaoun" /> </div>
+##### <div align="right"> <img src="https://komarev.com/ghpvc/?username=darko-pantic&label=Profile%20views&color=0e75b6&style=flat"/>  <img src="https://img.shields.io/github/followers/darko-pantic?label=Followers"/> </div>
 
 
 
@@ -32,12 +32,9 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=darko-pantic&theme=nord&hide_border=true&include_all_commits=false&count_private=true">
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=darko-pantic&theme=nord&hide_border=true">
-</p>
-<br/>
-<p align="center">
-  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darko-pantic&theme=nord&hide_border=true&langs_count=8&layout=compact" alt="darko-pantic">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=darko-pantic&theme=nord&hide_border=true&include_all_commits=false&count_private=true"/>
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=darko-pantic&theme=nord&hide_border=true"/><br/>
+  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darko-pantic&theme=nord&hide_border=true&langs_count=8&layout=compact"/>
 </p>
 
 # 🏆 GitHub Trophies 
