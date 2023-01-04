@@ -37,7 +37,7 @@
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=darko-pantic&theme=nord&hide_border=true" alt="darko-pantic">
 </p>
 <p align="center">
-  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darko-pantic&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="darko-pantic">
+  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darko-pantic&theme=nord&hide_border=true&langs_count=8&layout=compact" alt="darko-pantic">
 </p>
 
 # 🏆 GitHub Trophies 
