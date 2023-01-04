@@ -1,11 +1,10 @@
 <div align="center">
   <a href="https://github.com/darko-pantic/darko-pantic">
-  <img  src="https://github.com/darko-pantic/darko-pantic/blob/main/assets/img/header.svg"
-       alt="snake" /></a>
+    <img  src="https://github.com/darko-pantic/darko-pantic/blob/main/assets/img/header.svg" alt="header" />
+  </a>
 </div>
 
-##### <div align="right"> ![](https://visitcount.itsvg.in/api?id=darko-pantic&icon=0&color=0) </div>
-##### <div align="right"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/darko-pantic?style=social"> </div>
+##### <div align="right"> <img src="https://komarev.com/ghpvc/?username=darko-pantic&label=Profile%20views&color=0e75b6&style=flat"/>  <img src="https://img.shields.io/github/followers/darko-pantic?label=Followers" alt="bouaskaoun" /> </div>
 
 
 
