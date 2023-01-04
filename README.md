@@ -1,4 +1,5 @@
 ##### <div align="right"> ![](https://visitcount.itsvg.in/api?id=darko-pantic&icon=0&color=0) </div>
+##### <div align="right"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/darko-pantic?style=social"> </div>
 
 # 🤖 About Me: 
 
