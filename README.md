@@ -14,7 +14,7 @@
 </div>
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darko-pantic) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?&logo=github&logoColor=white)](https://linkedin.com/in/darko-pantic) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20928466/pantic-darko)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darko-pantic) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?&logo=github&logoColor=white)](https://github.com/darko-pantic) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20928466/pantic-darko)
 
 # 💻 Tech Stack:
 
