@@ -2,7 +2,9 @@
 
 <div align="center">
 <h1 align="center">Hi, I'm Darko! <img width="35" src="https://github.com/darko-pantic/darko-pantic/blob/main/assets/img/waving.gif"></h1>
-<h4 align="center">I'm currently working as a Software Engineer focused on .NET/.NET Core Framework</h4>
+<p align="center">
+	<img src="https://readme-typing-svg.herokuapp.com?lines=I'm+working+as+a+Software+Engineer;ASP.Net%20|%20ASP.Net+Core%20|%20DDD+Enthusiast;Always%20learning%20new%20things&center=true&width=450&height=45">
+</p>
 </div>
 
 <div align="center">
@@ -29,15 +31,18 @@
 #### 🔸 Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual%20studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![ReSharper](https://img.shields.io/badge/ReSharper-000000.svg?style=for-the-badge&logo=resharper&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=darko-pantic&theme=nord&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=darko-pantic&theme=nord&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=darko-pantic&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=darko-pantic&theme=nord&no-frame=true&no-bg=false&margin-w=4)
+<p align="center">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=darko-pantic&theme=nord&show_icons=true&hide_border=true" alt="darko-pantic">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=darko-pantic&theme=nord&hide_border=true" alt="darko-pantic">
+</p>
+<p align="center">
+  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darko-pantic&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="darko-pantic">
+</p>
 
+# 🏆 GitHub Trophies 
+![](https://github-profile-trophy.vercel.app/?username=darko-pantic&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 ---
 [![GitHub darko-pantic](https://img.shields.io/github/followers/darko-pantic?label=follow&style=social&logoColor=black)](https://github.com/darko-pantic)
 [![](https://visitcount.itsvg.in/api?id=darko-pantic&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ---
 Credits: [darko-pantic](https://github.com/darko-pantic)
