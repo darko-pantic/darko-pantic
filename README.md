@@ -14,7 +14,7 @@
 </div>
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darko-pantic) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darko-pantic) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?&logo=github&logoColor=white)](https://linkedin.com/in/darko-pantic) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20928466/pantic-darko)
 
 # 💻 Tech Stack:
 
@@ -33,9 +33,10 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=darko-pantic&theme=nord&show_icons=true&hide_border=true" alt="darko-pantic">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=darko-pantic&theme=nord&hide_border=true" alt="darko-pantic">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=darko-pantic&theme=nord&show_icons=true&hide_border=true">
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=darko-pantic&theme=nord&hide_border=true">
 </p>
+<br/>
 <p align="center">
   <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darko-pantic&theme=nord&hide_border=true&langs_count=8&layout=compact" alt="darko-pantic">
 </p>
