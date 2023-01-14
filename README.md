@@ -32,9 +32,9 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=darko-pantic&theme=nord&hide_border=true&include_all_commits=false&count_private=true"/>
+  <img width="49.5%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=darko-pantic&theme=nord&hide_border=true&include_all_commits=false&count_private=true"/>
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=darko-pantic&theme=nord&hide_border=true"/><br/>
-  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darko-pantic&theme=nord&hide_border=true&langs_count=8&layout=compact"/>
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=darko-pantic&theme=nord&hide_border=true&langs_count=8"/>
 </p>
 
 # 🏆 GitHub Trophies 
